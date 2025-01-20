@@ -6,10 +6,10 @@
 
 ## Features
 
-- **Component-Based Architecture: Utilizes React components for modular and maintainable code.
-- **State Management with Hooks: Implements useState hook to manage and update the current step in the Onboarding process.
-- **Props for Data Passing
-- **Responsive Design: Ensures the application is responsive across various screen sizes using TailwindCSS.
+- **Component-Based Architecture: Utilizes React components for modular and maintainable code.**
+- **State Management with Hooks: Implements useState hook to manage and update the current step in the Onboarding process.**
+- **Props for Data Passing**
+- **Responsive Design: Ensures the application is responsive across various screen sizes using TailwindCSS.**
 
 
 
